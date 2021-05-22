@@ -1,0 +1,1 @@
+import { getAllPeopleSlug, getAllLocsSlug } from '../../lib/api'
